@@ -3,7 +3,7 @@ package inicializar;
 public class VerificarHorarios {
 
 	/**
-	 * @author Marcelo F. Samia
+	 * @author Diego J D Arias
 	 */
 	public static void main(String[] args) {
 		Horario h = new Horario(2, 8, 45, 12, 45, 3);
