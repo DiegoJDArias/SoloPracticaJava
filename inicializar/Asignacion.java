@@ -4,39 +4,39 @@
 package inicializar;
 
 /**
- * @author Marcelo F. Samia
+ * @author Diego J D Arias
  * 
  */
 public class Asignacion {
 	public static void main(String args[]) {
-		// declaraci髇 de variables enteras
+		// declaraci贸n de variables enteras
 		int x, y;
 
-		// declaraci髇 y asignaci髇 de variables de punto flotante
+		// declaraci贸n y asignaci贸n de variables de punto flotante
 		float z = 3.414f;
 
-		// declaraci髇 y asignaci髇 de double
+		// declaraci贸n y asignaci贸n de double
 		double w = 3.1415;
 
-		// declaraci髇 y asignaci髇 de boolean
+		// declaraci贸n y asignaci贸n de boolean
 		boolean verdadero = true;
 
-		// declaraci髇 de variable de caracter
+		// declaraci贸n de variable de caracter
 		char c;
 
-		// declaraci髇 de variable String
+		// declaraci贸n de variable String
 		String str;
 
-		// declaraci髇 y asignaci髇 de String
+		// declaraci贸n y asignaci贸n de String
 		String str1 = "chau";
 
-		// asignaci髇 de valores a un char
+		// asignaci贸n de valores a un char
 		c = 'A';
 
-		// asignaci髇 de valores a un String
+		// asignaci贸n de valores a un String
 		str = "Hola!";
 
-		// asignaci髇 de valores a un int
+		// asignaci贸n de valores a un int
 		x = 6_003_334;
 		y = 1000;
 	}
