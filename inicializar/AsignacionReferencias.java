@@ -4,7 +4,7 @@
 package inicializar;
 
 /**
- * @author Marcelo F. Samia
+ * @author Diego J D Arias
  *
  */
 public class AsignacionReferencias {
