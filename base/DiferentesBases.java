@@ -4,7 +4,7 @@
 package base;
 
 /**
- * @author Marcelo F. Samia
+ * @author Diego J D Arias
  *
  */
 public class DiferentesBases {
@@ -22,15 +22,15 @@ public class DiferentesBases {
 		System.out.println("El valor de var4 asignado en binario: " + var4);
 	}
 	
-	// La doble barra se usa si el comentario abarca una línea
+	// La doble barra se usa si el comentario abarca una lÃ­nea
 
 
 	/* Comienza el comentario
-	La combinación barra – asterisco para comenzar y asterisco- barra para finalizar se utiliza el comentario abarca más de una línea
+	La combinaciÃ³n barra â€“ asterisco para comenzar y asterisco- barra para finalizar se utiliza el comentario abarca mÃ¡s de una lÃ­nea
 	Finaliza el comentario */
 
 	/** Comienza el comentario
-	La combinación barra – asterisco - asterisco  es para que lo lea el javadoc.
+	La combinaciÃ³n barra â€“ asterisco - asterisco  es para que lo lea el javadoc.
 	Finaliza el comentario */
 
 }
